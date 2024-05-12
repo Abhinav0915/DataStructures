@@ -1,9 +1,9 @@
 package LinkedList;
 
-public class LinkedList {
+public class LinkedList2 {
     Node head;
 
-    public LinkedList(){
+    public LinkedList2(){
         this.head = null;
     }
 
